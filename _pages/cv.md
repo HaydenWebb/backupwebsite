@@ -129,9 +129,10 @@ Talks
 
 ## Service
 ### University Service
-| Organization                   | Period                   | Hours      |
-| ------------------------------ | ------------------------ | ---------- |
-| OEDK New Student Ambassador    | Summer 2022              | 100+       |
+| Organization            | Period   |    Hours                                            |
+| --------         | ------ | ------------------------------------------------------------ |
+| OEDK New Student Ambassador    | Summer 2022   | 100+                          |
+
 
 ### Community Service
 | Organization                   | Period                   | Hours      |
@@ -142,11 +143,6 @@ Talks
 | CISD PD Jr. Leadership Program | Fall 2015 - Spring 2021  | 1000+ Hours|
 | Interact Club                  | Fall 2017 - Spring 2020  | 100+ Hours |
 
-| Organization            | Period   |    Hours                                                          |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
 Professional Societies
 ======
