@@ -132,12 +132,15 @@ Service
 * University Service
   * OEDK New Student Ambassador | Summer 2022 | 100+ Hours
 * Community Service
-| --------         | ------ | ------------------------------------------------------------ |
+| Entry            | Item   |                                                              |
+| ------------------------------ | ------ | ------------------------------------------------------------ |
 | National Math Honor Society    | Fall 2020 - Spring 2021   | 50+ Hours                   |
 | National English Honor Society | Fall 2019 - Spring 2021   | 150+ Hours                  |
 | National Honor Society         | Fall 2019 - Spring 2021   | 50+ Hours                   |
 | CISD PD Jr. Leadership Program | Fall 2015 - Spring 2021   | 1000+ Hours                 |
 | Interact Club                  | Fall 2017 - Spring 2020   | 100+ Hours                  |
+
+
 
 Professional Societies
 ======
