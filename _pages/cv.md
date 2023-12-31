@@ -9,12 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * B.S. in Mechanical Engineering, Rice University, 2025 (expected)
 
-Professional Experience
-======
+## Professional Experience
 * Undergraduate Research Assistant, Robotics and Physical Interactions Lab
   * Rice University (Fall 2023 - Present)
   * Project: Belt-Driven Rotational Manipulation Attachment [Mentored Independent Project]
@@ -45,12 +43,10 @@ Professional Experience
   *  NASA (Fall 2019 - Summer 2020)
 
 
-Honors and Awards
-======
+## Honors and Awards
 * 2021 AP Scholar with Distinction - College Board
 
-Leadership Experience
-======
+## Leadership Experience
 * Co-President, Rice Robotics Club
   * Rice University (Summer 2023 - Present)
   * Duties: Managed 100+ students and 10+ teams on the development of their projects & Assisted in collecting $5000+ through Funds & Fellowships 
@@ -70,8 +66,7 @@ Leadership Experience
   * NASA (Fall 2019 - Summer 2020)
   * Duties: Led 20+ students on the mechanical design of a mock Lunar Lander
 
-Teaching Experience
-======
+## Teaching Experience
 * Teaching Assistant, Department of Mechanical Engineering
   * Rice University (Spring 2024 - Present)
   * Duties: Assisted with teaching & grading in MECH 310 - Rigid Body Dynamics
@@ -110,8 +105,7 @@ Talks
   {% endfor %}</ul>
  --> 
 
-Service
-======
+## Service
 * University Service
   * OEDK New Student Ambassador:  Summer 2022 (100+ Hours)
 * Community Service
@@ -122,12 +116,10 @@ Service
   * Interact Club: Fall 2015 - Spring 2020 (100+ Hours)
 
 
-Professional Societies
-======
+## Professional Societies
 * American Society for Mechanical Engineers (ASME)
 
-Additional Activities
-======
+## Additional Activities
 * Two-Time Region Orchestra, Texas (2017-2019)
 * All-State Choir, Texas (2015)
 
