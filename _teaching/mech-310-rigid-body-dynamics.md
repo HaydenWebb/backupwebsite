@@ -8,7 +8,8 @@ date: 2024-01-08
 location: "Houston, United States"
 ---
 
-Taught & graded material for the Rigid Body Dynamics course for an undergraduate MECH course of 60+ students.
+Taught & graded material for the Rigid Body Dynamics course for an undergraduate MECH course of 70+ students.
+
 
 Description
 ======
