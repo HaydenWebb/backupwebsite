@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae | <a href="/files/Webb_CV.pdf" download>[Download]</a>"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -122,6 +122,7 @@ Talks
 * Two-Time Region Orchestra, Texas (2017-2019)
 * All-State Choir, Texas (2015)
 
+| <a href="/files/Webb_CV.pdf" download>[Download]</a>
 <!---
 Teaching
 ======
