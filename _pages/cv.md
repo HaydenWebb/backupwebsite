@@ -122,7 +122,9 @@ Talks
 * Two-Time Region Orchestra, Texas (2017-2019)
 * All-State Choir, Texas (2015)
 
-| <a href="/files/Webb_CV.pdf" download>[Download]</a>
+
+<a href="/files/Webb_CV.pdf" download>[Download]</a>
+
 <!---
 Teaching
 ======
