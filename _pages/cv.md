@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae | <a href="/files/Webb_CV.pdf" download>[Download]</a> <br>"
+title: "Curriculum Vitae | <a href="/files/Webb_CV.pdf" download>[Download]</a>"
 permalink: /cv/
 author_profile: true
 redirect_from:
