@@ -1,6 +1,6 @@
 ---
 title: "Wearable Roller Ring Manipulator"
-excerpt: "Creation of a robot & human hand attachment to generate non-holonomic, differential manipulation c<br/><img src='/images/reference_softball.png'>"
+excerpt: "Creation of a robot & human hand attachment to generate non-holonomic, differential manipulation <br/><img src='/images/reference_softball.png'>"
 collection: portfolio
 ---
 
