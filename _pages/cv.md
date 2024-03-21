@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Curriculum Vitae | <a href="/files/Webb_CV.pdf" download>[Download]</a> <br>"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a href="/files/Webb_CV.pdf" download>[Download]</a> <br>
-
 ## Education
 * B.S. in Mechanical Engineering, Rice University, 2025 (expected)
 
