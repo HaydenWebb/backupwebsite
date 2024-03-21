@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<a href="/files/Webb_CV.pdf" download>[Download]</a> <br>
 
 ## Education
 * B.S. in Mechanical Engineering, Rice University, 2025 (expected)
@@ -15,7 +16,7 @@ redirect_from:
 ## Professional Experience
 * Undergraduate Research Assistant, Robotics and Physical Interactions Lab
   * Rice University (Fall 2023 - Present)
-  * Project: Belt-Driven Rotational Manipulation Attachment [Mentored Independent Project]
+  * Project: Belt-Driven In-Hand Manipulation Attachment [Mentored Independent Project]
   * Advisors: Kaiyu Hang & Shenli Yuan
 
 * Undergraduate Research Intern, Robotics and Physical Interactions Lab
