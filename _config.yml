@@ -83,7 +83,7 @@ author:
   name             : "Hayden Webb"
   avatar           : "Hayden Webb PFP.jpg"
   bio              : "Undergraduate Research Assistant & Future Roboticist"
-  location         : "Houston, TX"
+  location         : #"Houston, TX"
   employer         : "Rice University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
