@@ -86,7 +86,7 @@ author:
   location         : #"Houston, TX"
   employer         : "Rice University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?hl=en&user=Zjuc2DMAAAAJ
   email            : "hayden.m.webb@rice.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
