@@ -13,4 +13,4 @@ I am an undergraduate student at [Rice University](https://www.rice.edu/) studyi
 Additionally, I work for both the [Rice University Mechanical Engineering Department](https://mech.rice.edu/) and [Rice University Oshman Engineering Design Kitchen](https://oedk.rice.edu/) as a Teaching Assistant to further promote and teach Engineering in the Rice undergraduate & graduate community.
 
 ## News
-**April 30, 2024** I presented my work on the [Roller Ring](https://webbhayden.com/publication/2024-03-19-wearable-roller-rings) at TEROS as a Poster and additionally featured in Kaiyu Hang's talk on "Robust Robot Manipulation with Less Wishful Assumptions"
+**April 30, 2024** I presented my work on the [Roller Ring](https://webbhayden.com/publication/2024-03-19-wearable-roller-rings) at TEROS 2024
