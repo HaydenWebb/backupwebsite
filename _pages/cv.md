@@ -58,12 +58,12 @@ redirect_from:
 * 2021 AP Scholar with Distinction - College Board
 
 ## Publications
-Wearable Roller Rings to Enable Robot Dexterous In-Hand Manipulation through Active Surface
+Wearable Roller Rings to Enable Robot Dexterous In-Hand Manipulation through Active Surface <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**H. Webb**,  P. Changrunmaneekul., S, Yuan, and K. Hang, arXiv 2403.13132, 2024
 
 ## Presentations
 **2024**
-**H. Webb**,  P. Changrunmaneekul., S, Yuan, and K. Hang; Wearable Roller Rings to Enable Robot Dexterous 
+**H. Webb**,  P. Changrunmaneekul., S, Yuan, and K. Hang; Wearable Roller Rings to Enable Robot Dexterous <br?>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In-Hand Manipulation through Active Surfaces. Texas Regional Robotics Symposium (TEROS) \[Poster\]
 
 ## Teaching Experience
