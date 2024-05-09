@@ -12,78 +12,79 @@ redirect_from:
 * B.S. in Mechanical Engineering, Rice University, 2025 (expected)
 
 ## Professional Experience
-* Undergraduate Research Assistant, Robotics and Physical Interactions Lab
-  * Rice University (Fall 2023 - Present)
-  * Project: Belt-Driven In-Hand Manipulation Attachment [Mentored Independent Project]
-  * Advisors: Kaiyu Hang & Shenli Yuan
+* Undergraduate Research Assistant, George R. Brown School of Engineering - Houston, Tx
+  * Rice University (2023 - Present)
+  * Project: Wearable Roller Ring & Versatile Roller Glove
+  * Advisor: Kaiyu Hang
 
-* Undergraduate Research Intern, Robotics and Physical Interactions Lab
-  * Rice University (Summer 2023)
-  * Project: Belt-Augmented Compliant Hand [Mentored Independent Project]
-  * Advisors: Kaiyu Hang & Shenli Yuan
-
-* Robotics Engineer, Rice Robotics Club
-  * Rice University (Fall 2021 - Present)
+* Robotics Engineer, Rice Robotics Club - Houston, TX
+  * Rice University (2021 - 2023)
   * Project: Power Cell Storage & Mirrored Arm Device [Independent Project]
 
-* Undergraduate Research Assistant, Office of Innovation
-  * Rice University (Fall 2022 - Spring 2023)
-  * Project: Smart Helmet [Mentored Independent Project]
+* Undergraduate Research Assistant, Office of Innovation - Houston, TX
+  * Rice University (2022)
+  * Project: Smart Helmet Material Fabrication
   * Advisors: Paul Cherukuri & Grant Belton
 
-* Extern
-  * Blue Origin (Fall 2022)
+* Extern, Blue Origin (2022) - Houston, TX
 
-* Project Design Engineer, Oshman Engineering Design Kitchen
-  * Rice University (Fall 2021 - Spring 2022)
+* Project Design Engineer, Oshman Engineering Design Kitchen - Houston, TX
+  * Rice University (2021 -2022)
   * Advisors: Deirdre Hunter & Robert Read
 
-* Intern, Highschool Aerospace Scholar Program
-  *  NASA (Fall 2019 - Summer 2020)
+* Intern, NASA (Highschool Aerospace Scholar Program, 2019 - 2020) - Houston, TX
 
+## Leadership Experience
+* Co-President, Rice Robotics Club
+  * Rice University (2023 - Present)
+  * Duties: Managed 100+ students and 10+ teams on the development of their projects & Assisted in collecting $5000+ through Funds & Fellowships 
+
+* Manufacturing Team Lead, Rice Robotics Club
+  * Rice University (2022 - 2023)
+  * Duties: Led 10+ students on the mechanical design & creation of an overactuated arm device capable of mirroring a user’s movements
+
+* Doerr Institute for New Leaders Program
+  * Rice University (2021)
+
+* President, National English Honor Society 
+  * Conroe High School (2020 - 2021)
+  * Duties: Promoted literacy in surrounding schools through reading programs and community events for elementary students
+
+* Team Lead, Highschool Aerospace Scholar Program 
+  * NASA (2019 - 2020)
+  * Duties: Led 20+ students on the mechanical design of a mock Lunar Lander
 
 ## Honors and Awards
 * 2021 AP Scholar with Distinction - College Board
 
-## Leadership Experience
-* Co-President, Rice Robotics Club
-  * Rice University (Summer 2023 - Present)
-  * Duties: Managed 100+ students and 10+ teams on the development of their projects & Assisted in collecting $5000+ through Funds & Fellowships 
+## Publications
+Wearable Roller Rings to Enable Robot Dexterous In-Hand Manipulation through Active Surface
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**H. Webb**,  P. Changrunmaneekul., S, Yuan, and K. Hang, arXiv 2403.13132, 2024
 
-* Manufacturing Team Lead, Rice Robotics Club
-  * Rice University (Fall 2022 - Spring 2023)
-  * Duties: Led 10+ students on the mechanical design & creation of an overactuated arm device capable of mirroring a user’s movements
-
-* Doerr Institute for New Leaders Program
-  * Rice University (Fall 2021)
-
-* President, National English Honor Society 
-  * Conroe High School (Fall 2020 - Spring 2021)
-  * Duties: Promoted literacy in surrounding schools through reading programs and community events for elementary students
-
-* Team Lead, Highschool Aerospace Scholar Program 
-  * NASA (Fall 2019 - Summer 2020)
-  * Duties: Led 20+ students on the mechanical design of a mock Lunar Lander
+## Presentations
+**2024**
+**H. Webb**,  P. Changrunmaneekul., S, Yuan, and K. Hang; Wearable Roller Rings to Enable Robot Dexterous 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In-Hand Manipulation through Active Surfaces. Texas Regional Robotics Symposium (TEROS) \[Poster\]
 
 ## Teaching Experience
 * Teaching Assistant, Department of Mechanical Engineering
-  * Rice University (Spring 2024 - Present)
-  * Duties: Assisted with teaching & grading in MECH 310 - Rigid Body Dynamics
+  * Rice University (2024 - Present)
+  * Duties: Assisted with teaching & grading in MECH 310 - Rigid Body Dynamics & MECH 315 - Stress Analysis
 
 * Teaching Assistant, Oshman Engineering Design Kitchen
-  * Rice University (Fall 2022 - Present)
+  * Rice University (2022 - Present)
   * Duties: Assisted undergraduate & graduate students with team projects and individual competencies in ENGI 210 - Prototyping & Fabrication
 
 * IBB Summer Academy Assistant, Oshman Engineering Design Kitchen
-  * Rice University (Summer 2022)
+  * Rice University (2022)
   * Duties: Assisted with a week-long course for highschool students on engineering design tools, devices, and processes
 
 * Teaching Assistant, Academy for Science and Health Professions
-  * Conroe High School (Fall 2020 - Spring 2021)
+  * Conroe High School (2020 - 2021)
   * Duties: Assisted with teaching and grading for Honors Chemistry 
 
 * Tutor, Academy for Science and Health Professions
-  * Conroe High School (Fall 2019 - Spring 2021)
+  * Conroe High School (2019 - 2021)
   * Duties: Head lead for tutoring for AP Fellow Program for 9th-12th Grade  
   
 
@@ -117,11 +118,6 @@ Talks
 
 ## Professional Societies
 * American Society for Mechanical Engineers (ASME)
-
-## Additional Activities
-* Two-Time Region Orchestra, Texas (2017-2019)
-* All-State Choir, Texas (2015)
-
 
 <a href="/files/Webb_CV.pdf" download>[Download]</a>
 
