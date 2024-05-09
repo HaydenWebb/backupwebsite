@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[Curriculum Vitae](/files/Webb_CV.pdf)"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+The PDF of my CV can be found <a href="/files/Webb_CV.pdf" download>[here]</a>
 ## Education
 * B.S. in Mechanical Engineering, Rice University, 2025 (expected)
 
@@ -119,7 +120,6 @@ Talks
 ## Professional Societies
 * American Society for Mechanical Engineers (ASME)
 
-<!--<a href="/files/Webb_CV.pdf" download>[Download]</a> -->
 
 <!---
 Teaching
