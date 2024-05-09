@@ -63,7 +63,7 @@ Wearable Roller Rings to Enable Robot Dexterous In-Hand Manipulation through Act
 
 ## Presentations
 **2024**
-**H. Webb**,  P. Changrunmaneekul., S, Yuan, and K. Hang; Wearable Roller Rings to Enable Robot Dexterous <br?>
+**H. Webb**,  P. Changrunmaneekul., S, Yuan, and K. Hang; Wearable Roller Rings to Enable Robot Dexterous <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In-Hand Manipulation through Active Surfaces. Texas Regional Robotics Symposium (TEROS) \[Poster\]
 
 ## Teaching Experience
@@ -107,13 +107,13 @@ Talks
 
 ## Service
 * University Service
-  * OEDK New Student Ambassador:  Summer 2022 (100+ Hours)
+  * OEDK New Student Ambassador: 2021-2022 (100+ Hours)
 * Community Service
-  * National Math Honor Society: Fall 2020 - Spring 2021 (50+ Hours)
-  * National English Honor Society: Fall 2019 - Spring 2021 (150+ Hours)
-  * National Honor Society: Fall 2019 - Spring 2021 (50+ Hours)
-  * CISD PD Jr. Leadership Program: Fall 2015 - Spring 2021 (1000+ Hours)
-  * Interact Club: Fall 2015 - Spring 2020 (100+ Hours)
+  * National Math Honor Society: 2020 - 2021 (50+ Hours)
+  * National English Honor Society: 2019 - 2021 (150+ Hours)
+  * National Honor Society: 2019 - 2021 (50+ Hours)
+  * CISD PD Jr. Leadership Program: 2015 - 2021 (1000+ Hours)
+  * Interact Club: 2015 - 2020 (100+ Hours)
 
 
 ## Professional Societies
