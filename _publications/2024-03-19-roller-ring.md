@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-03-19-wearable-roller-rings
 excerpt: 'Keywords: In-Hand Manipulation, Dexterous Manipulation, Multi-fingered Robots'
 date: 2024-03-19
-venue: 'Arxiv preprint'
+venue: 'arXiv preprint'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
 citation: 'H. Webb, P. Changrunmaneekul, S. Yuan, and K. Hang. &quot;Wearable Roller Rings to Enable Robot Dexterous In-Hand Manipulation through Active Surfaces&quot;. 2024.'
 ---
