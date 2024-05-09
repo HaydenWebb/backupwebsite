@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "[Curriculum Vitae](/files/Webb_CV.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -119,7 +119,7 @@ Talks
 ## Professional Societies
 * American Society for Mechanical Engineers (ASME)
 
-<a href="/files/Webb_CV.pdf" download>[Download]</a>
+<!--<a href="/files/Webb_CV.pdf" download>[Download]</a> -->
 
 <!---
 Teaching
