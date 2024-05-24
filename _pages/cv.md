@@ -108,7 +108,7 @@ Talks
 
 ## Service
 * University Service
-  * OEDK New Student Ambassador: 2021-2022 (100+ Hours)
+  * OEDK New Student Ambassador: 2021-2022 (50+ Hours)
 * Community Service
   * National Math Honor Society: 2020 - 2021 (50+ Hours)
   * National English Honor Society: 2019 - 2021 (150+ Hours)
