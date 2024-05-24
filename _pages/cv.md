@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-The PDF of my CV can be found <a href="/files/Webb_CV.pdf" download>[here]</a>
+<a href="/files/Webb_CV.pdf" download>[PDF]</a>
 ## Education
 * B.S. in Mechanical Engineering, Rice University, 2025 (expected)
 
@@ -119,7 +119,7 @@ Talks
 
 ## Professional Societies
 * American Society for Mechanical Engineers (ASME)
-
+* Institute of Electrical and Electronics Engineers (IEEE)
 
 <!---
 Teaching
