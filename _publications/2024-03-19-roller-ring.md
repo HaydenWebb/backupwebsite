@@ -20,5 +20,5 @@ In-hand manipulation is a crucial ability for reorienting and repositioning obje
 <img title="a title" alt="Alt text" src="/images/design_parts.png">
 
 ### Publications
-Under consideration for IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024 <br>
+Under consideration for IEEE/RSJ International Conference on Robotics and Automation (ICRA) 2025 <br>
 [[Link]](https://arxiv.org/abs/2403.13132) | <a href="/files/webb2024roller.bib" download>[BibTeX]</a>
