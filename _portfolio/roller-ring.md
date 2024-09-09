@@ -1,6 +1,6 @@
 ---
 title: "Wearable Roller Ring Manipulator"
-excerpt: "<img src='/images/reference_softball.png'>"
+excerpt: "Creation of a wearable, modular robotic end-effector for providing full spatial in-hand manipulation to robot and human hands"
 collection: portfolio
 ---
 
@@ -9,3 +9,5 @@ The Roller Ring is a robotic attachment composed of rotating activated surfaces.
 
 ### Personal Contribution
 Developed the mechanical design of the Roller Ring as well as the manipulation algorithms to create a device capable of optimally manipulating objects in 3D space when affixed to both robot & human grasping systems. Code base & robot hand for the test environment came from the [Yale OpenHand Project](https://www.eng.yale.edu/grablab/openhand/) and was further modified to accommodate the Roller Ring components.
+
+<img title="a title" alt="Alt text" src="/images/reference_softball.png">

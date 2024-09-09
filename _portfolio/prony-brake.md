@@ -1,6 +1,6 @@
 ---
-excerpt: "<img src='/images/prony-brake-reference.png'>"
-caption: "Testing"
+title: Prony Brake
+excerpt: "Development of an electronic Prony Brake for teaching torque, speed, and power for an upper level MECH lab"
 collection: portfolio
 ---
 
@@ -9,3 +9,5 @@ Prony Brakes are a mechanical tool for determining the torque of a system's moto
 
 ### Personal Contribution
 Designed and developed multiple functional 3D-Printed Prony Brakes to mechanically test the concepts of dynamic torque, speed, and power through inset motors and load cells. Built an electronic subsystem consisting of a photo interrupter, Arduino microcontroller, and signal amplifier to calculate the torque and RPM of a motor for use in an upper level MECH course.
+
+<img title="a title" alt="Alt text" src="/images/prony-brake-reference.png">
