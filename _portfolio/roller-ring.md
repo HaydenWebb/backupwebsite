@@ -1,6 +1,6 @@
 ---
 title: "Wearable Roller Ring Manipulator"
-excerpt: "Creation of a wearable, modular robotic end-effector for providing full spatial in-hand manipulation to robot and human hands"
+excerpt: "Creation of a wearable, modular robotic end-effector for providing full spatial in-hand manipulation to robot and human hands <br/> Keywords: In-Hand Manipulation, Dexterous Manipulation, Multi-fingered Robots"
 collection: portfolio
 ---
 

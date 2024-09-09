@@ -1,6 +1,6 @@
 ---
 title: Prony Brake
-excerpt: "Development of an electronic Prony Brake for teaching torque, speed, and power for an upper level MECH lab"
+excerpt: "Development of an electronic Prony Brake for teaching torque, speed, and power for an upper level MECH lab <br/> Keywords: Dynamics, Arduino, CAD"
 collection: portfolio
 ---
 
