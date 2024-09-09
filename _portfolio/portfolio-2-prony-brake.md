@@ -1,6 +1,6 @@
 ---
 title: "Prony Brake for Motor Parameterization"
-excerpt: "Creation of a prony brake device to generate torque, speed, and power through an associated electronic subsystem for MECH students<br/><img src='/images/prony-brake-reference.png'>"
+excerpt: "<br/><img src='/images/prony-brake-reference.png'>"
 collection: portfolio
 ---
 
