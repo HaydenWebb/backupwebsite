@@ -1,6 +1,6 @@
 ---
 title: "Wearable Roller Ring Manipulator"
-excerpt: "<br/><img src='/images/reference_softball.png'>"
+excerpt: "<img src='/images/reference_softball.png'>"
 collection: portfolio
 ---
 

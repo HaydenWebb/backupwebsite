@@ -1,6 +1,6 @@
 ---
 title: "Prony Brake for Motor Parameterization"
-excerpt: "<br/><img src='/images/prony-brake-reference.png'>"
+excerpt: "<img src='/images/prony-brake-reference.png'>"
 collection: portfolio
 ---
 
